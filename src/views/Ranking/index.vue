@@ -1,14 +1,13 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div id="page-ranking">
+    <h1>排行页面</h1>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'App',
-
+  name: 'Ranking',
 }
 </script>
 
